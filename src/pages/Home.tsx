@@ -51,7 +51,7 @@ function Home() {
 
     return (
         <div className="container mx-auto p-4">
-            <h1 className="text-3xl font-bold mb-6 text-center">Todos los Juegos</h1>
+            <h1 className="text-3xl font-bold mb-6 text-center">Todos los Juegos API</h1>
 
             {error && (
                 <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
